@@ -1,0 +1,3 @@
+[submodule "ToolsLinux/micro-sam-ba"]
+	path = ToolsLinux/micro-sam-ba
+	url = https://github.com/atmelcorp/micro-sam-ba.git
