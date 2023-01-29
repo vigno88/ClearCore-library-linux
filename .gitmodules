@@ -1,3 +1,6 @@
 [submodule "ToolsLinux/micro-sam-ba"]
 	path = ToolsLinux/micro-sam-ba
 	url = https://github.com/atmelcorp/micro-sam-ba.git
+[submodule "ToolsLinux/BOSSA"]
+	path = ToolsLinux/BOSSA
+	url = https://github.com/shumatech/BOSSA.git
