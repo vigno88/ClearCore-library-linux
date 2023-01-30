@@ -1,6 +1,6 @@
 # Tools
 
-**Micro SAM-BA** Flash programming utility. See https://github.com/atmelcorp/micro-sam-ba
+**BOSSAC** Flash programming utility. See https://github.com/shumatech/BOSSA
 
 **uf2-builder.exe** .bin to .uf2 conversion program. See https://github.com/microsoft/uf2
 
